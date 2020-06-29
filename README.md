@@ -9,7 +9,7 @@
 
 
 * Links  
-구글로 가고 싶으시면 [여기](https://www.google.com)을 클릭해 주세요
+구글로 가고 싶으시면 [여기](https://www.google.com "구글 홈페이지")을 클릭해 주세요
 
 * Headers
 샆을 사용하거나 =기호를 사용해서 만들 수 있습니다.
