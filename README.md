@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# 새로운 디자인에 대한 제안
 
-You can use the [editor on GitHub](https://github.com/2020-1-OSS-team-2/testpage.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## "000"의 자기소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**000**은 어떤 사람인가요?
 
-### Markdown
+### 표 완성해보기
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|좋아하는 음식|취미|존경하는 인물|가장 아끼는 물건|
+|:-----:|:-----:|:-----:|:-----:|
+|킴취|북리딩|마이클잭슨|콤퓨타|
 
-```markdown
-Syntax highlighted code block
+### 버킷 리스트 작성하기
 
-# Header 1
-## Header 2
-### Header 3
+* 1.   
+* 2.   
+* 3.   
+* 4.   
 
-- Bulleted
-- List
+### 존경하는 인물의 사진과 그 인물의 명언
 
-1. Numbered
-2. List
+![사진](https://존경하는 인물사진의 주소 "인물사진")
 
-**Bold** and _Italic_ and `Code` text
+> 늦었다고 생각할 때가 진짜 너무 늦었다 -박명수-
 
-[Link](url) and ![Image](src)
+### 내가 최근에 사용해본 코드   
+```java
+i = 1;
+j = 2;
+k = i+j;
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-1-OSS-team-2/testpage.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 나의 페이스북 주소   
+[여기](https://페이스북 주소 "000의페이스북")
