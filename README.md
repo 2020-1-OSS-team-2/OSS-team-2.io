@@ -28,7 +28,7 @@ _**굵고 기울게**_작성할 수도 있습니다.
 |**강아지**|바둑|흰둥|댕댕|
 
 * Images
-! [댕댕이와킹냥이] (https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg "cat and dog")
+![댕댕이와킹냥이](https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg "cat and dog")
 
 * Quotes
 > 늦었다고 생각할 때가 진짜 너무 늦었다.
