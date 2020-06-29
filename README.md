@@ -1,84 +1,34 @@
-## Welcome to team2's GitHub Pages
------
+# 새로운 디자인에 대한 제안
 
-우리가 해야할 8가지 항목  
-* Emphasis  
-*기울임*꼴로 작성할 수 있습니다.
-**굵게** 강조 할 수도 있습니다.   
-***굵고 기울게***작성할 수도 있습니다.
+## "000"의 자기소개
 
+**000**은 어떤 사람인가요?
 
-* Links  
-구글로 가고 싶으시면 [여기](https://www.google.com "구글 홈페이지")을 클릭해 주세요
+### 표 완성해보기
 
-* Headers   
-샆을 사용하거나 =기호를 사용해서 만들 수 있습니다.
+|좋아하는 음식|취미|존경하는 인물|가장 아끼는 물건|
+|:-----:|:-----:|:-----:|:-----:|
+|킴취|북리딩|마이클잭슨|콤퓨타|
 
-## 샆을 사용해보기   
-     
-는는는을 사용해보기
-======
+### 버킷 리스트 작성하기
 
-* Lists
+* 1.   
+* 2.   
+* 3.   
+* 4.   
 
-* Tables  
+### 존경하는 인물의 사진과 그 인물의 명언
 
-|항목|이름1|이름2|이름3|
-|-----|:-----|:-----:|-----:|
-|**고양이**|초코|나비|길냥|
-|**강아지**|바둑|흰둥|댕댕|
+![사진](https://존경하는 인물사진의 주소 "인물사진")
 
-* Images
-![댕댕이와킹냥이](https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg "cat and dog")
+> 늦었다고 생각할 때가 진짜 너무 늦었다 -박명수-
 
-사진이 크면 사이즈를 좀 줄여봅시다.   
-<img src="https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg" width="100">
-
-* Quotes
-> 늦었다고 생각할 때가 진짜 너무 늦었다.
-> -박명수-
-
-* Code   
+### 내가 최근에 사용해본 코드   
 ```java
-    i = 1
-    j = 2
-    k = i+j
-```
-    
-문장 한가운데에서 `code()`를 작성할 수 있습니다.
-
-You can use the [editor on GitHub](https://github.com/2020-1-OSS-team-2/testpage.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+i = 1;
+j = 2;
+k = i+j;
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-1-OSS-team-2/testpage.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 나의 페이스북 주소   
+[여기](https://페이스북 주소 "000의페이스북")
