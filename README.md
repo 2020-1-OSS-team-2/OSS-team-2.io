@@ -11,7 +11,7 @@
 * Links  
 구글로 가고 싶으시면 [여기](https://www.google.com "구글 홈페이지")을 클릭해 주세요
 
-* Headers
+* Headers   
 샆을 사용하거나 =기호를 사용해서 만들 수 있습니다.
 
 ## 샆을 사용해보기   
@@ -31,8 +31,8 @@
 * Images
 ![댕댕이와킹냥이](https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg "cat and dog")
 
-사진이 크면 사이즈를 좀 줄여봅시다
-<img src="https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg" width="50">
+사진이 크면 사이즈를 좀 줄여봅시다.   
+<img src="https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg" width="100">
 
 * Quotes
 > 늦었다고 생각할 때가 진짜 너무 늦었다.
