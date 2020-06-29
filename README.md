@@ -31,6 +31,9 @@
 * Images
 ![댕댕이와킹냥이](https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg "cat and dog")
 
+사진이 크면 사이즈를 좀 줄여봅시다
+<img src="https://images.mypetlife.co.kr/content/uploads/2019/08/20141553/shutterstock_119617003.jpg" width="50">
+
 * Quotes
 > 늦었다고 생각할 때가 진짜 너무 늦었다.
 > -박명수-
