@@ -11,15 +11,38 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*italics*
 
-- Bulleted
-- List
+[Google]((https://www.google.com)
 
-1. Numbered
-2. List
+This a Header1
+=====
+
+This is a H2 Header
+-----
+
+-List1
+ -sublist1
+ -sublist2
+
+-List2
+ -sublist1
+ -sublist2
+
+|Default|Left-aligned|Centered|Right=aligned|
+|-------|:-----------|:-------:|------------:|
+|*defalut*|is        |center  |$1500|
+|**colons**|to specify|which align| $210|
+|`Code`|stripes|are neat| $1|
+
+![Github Logo](https://miro.medium.com/max/318/1*1OKmA2EdGln8O6RCVORgGg.png)
+
+>Markdown is intended to be as easy-to-read and easy-to-write as is feasible. -John Cruber
+
+```python
+name = "MinsuKim"
+print('Hello, {}'.format(name))
+```
 
 **Bold** and _Italic_ and `Code` text
 
@@ -27,6 +50,7 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
