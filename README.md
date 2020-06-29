@@ -1,4 +1,19 @@
-## Welcome to team2s GitHub Pages
+## Welcome to team2's GitHub Pages
+-----
+
+우리가 해야할 8가지 항목  
+* Emphasis  
+* Links  
+* Headers
+* Lists
+* Tables
+* Images
+* Quotes
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/2020-1-OSS-team-2/testpage.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
