@@ -1,9 +1,5 @@
 # 새로운 디자인에 대한 제안
 
-## New line here
-### add an another line
-### This is a line
-
 ## "김종한"의 자기소개
 
 ### add rebase line
