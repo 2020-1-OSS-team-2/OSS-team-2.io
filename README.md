@@ -10,10 +10,7 @@
 |:-----:|:-----:|:-----:|:-----:|
 |아이스크림|넷플릭스보기|리처드 파인만|노트북|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
+### 버킷 리스트
 * 번지점프   
 * 세계여행    
 * 게임 제작해보기   
@@ -21,7 +18,7 @@ Syntax highlighted code block
 
 ### 존경하는 인물의 사진과 그 인물의 명언
 
-![사진](https://lh3.googleusercontent.com/proxy/MbWwQE45W9oZZ1vteG4D_ra2mYh0pCDs-UjE-zysxXXsDF81kAnahWx36m0fEqxcxYgwPAeGsW9ua5A_uMMQJh3iN3OgnYVsZMYxUD4jEWrhjtR0euuzLM1tb-p7YCOUH5WQbuMSBlBZdvdhzNNeXtLBXvCPiiCJwElh75A8XMxrMmxO5bCvhMLtopsj5R2jGsPluO2CzVz6-FNkgViuhoRNjiheD1I8cwsIHaWLNA6LKcKsK3lxIs-8FE9dfokZmmFdcetQ6IP5i60B9FGW3HkW8_TNcW38xqygvw "인물사진")
+![사진](http://image.dongascience.com/Photo/2016/12/14810989645256.jpg"인물사진")
 
 > 신은 불가사의를 설명하기 위해 만들어진다. 사람들은 이해되지 않는 것들을 설명하기 위해 신을 만들었다. 하지만 마침내 세상이 움직이는 원리를 알게 된다면,신으로부터 벗어나는 방법을 터득하게 된 것이며, 더 이상 신은 필요 없다. -리처드 파인만
 
