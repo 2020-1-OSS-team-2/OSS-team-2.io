@@ -1,5 +1,3 @@
-## Welcome to team2's GitHub Pages
------
 # 새로운 디자인에 대한 제안
 
 ## "000"의 자기소개
