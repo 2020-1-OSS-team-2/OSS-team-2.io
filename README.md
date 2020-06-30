@@ -6,11 +6,10 @@
 
 ### 표 완성해보기
 
-|좋아하는 음식|취미|존경하는 인물|가장 아끼는 물건|
-|:-----:|:-----:|:-----:|:-----:|
-|킴취|북리딩|마이클잭슨|콤퓨타|
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### 버킷 리스트 작성하기
+```markdown
+Syntax highlighted code block
 
 * 1.   
 * 2.   
