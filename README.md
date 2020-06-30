@@ -33,4 +33,4 @@
 ```
 
 ### 나의 페이스북 주소   
-[김종한의 페이스북 바로가기](https://www.facebook.com/profile.php?id=100010597456027 "김종한의 페이스북")
+[김종한의 페이스북 바로가기](http://image.dongascience.com/Photo/2016/12/14810989645256.jpg"김종한의 페이스북")
