@@ -1,33 +1,127 @@
 # 새로운 디자인에 대한 제안
 
-## "000"의 자기소개
+## "이주열"의 자기소개
 
-**000**은 어떤 사람인가요?
+**이주열**은 어떤 사람인가요?
 
 ### 표 완성해보기
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+이번학기 수강과목
 
-* 1.   
-* 2.   
-* 3.   
-* 4.   
-
+* 1.스포츠마사지
+* 2.소프트웨어 공학 개론
+* 3.오픈소스 소프트웨어
+* 4.컴퓨터 데이터구조
+* 5.프로그래밍응용1
+```
 ### 존경하는 인물의 사진과 그 인물의 명언
 
-![사진](https://존경하는 인물사진의 주소 "인물사진")
+![사진](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%25B9%258C_%25EA%25B2%258C%25EC%259D%25B4%25EC%25B8%25A0&psig=AOvVaw326jzhtlWZozTgkEas7HqH&ust=1593673926606000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC-ppLAq-oCFQAAAAAdAAAAABAD "빌 게이츠")
 
-> 늦었다고 생각할 때가 진짜 너무 늦었다 -박명수-
+> ″성공은 형편없는 선생님이다. 똑똑한 사람들을 실패할 수 없다는 착각에 빠트린다.”
 
 ### 내가 최근에 사용해본 코드   
-```java
-i = 1;
-j = 2;
-k = i+j;
+```python
+class Node:
+  def __init__(self, data):
+    self.data = data
+    self.neighbors = []
+    self.visited = False
+    
+  def add_neighbor(self, neighbor):
+    self.neighbors.append(neighbor)
+
+  def set_visited(self, visited):
+    self.visited = visited
+
+  def get_data(self):
+    return self.data
+
+  def get_neighbors(self):
+    return self.neighbors
+
+  def get_visited(self):
+    return self.visited
+
+
+class Graph:
+  def __init__(self):
+    self.nodes = []
+
+  def add_node(self, node):
+    self.nodes.append(node)
+  
+  def topological_sort(self):
+    if len(self.nodes) > 0:
+      for node in self.nodes:
+        node.set_visited(False)
+
+      self.stack = []
+      for i in range(len(self.nodes)):
+        self.sequence(self.nodes[i])
+      for i in range(len(self.stack)):
+        print(self.stack.pop())
+    print("")
+
+  def sequence(self, node):
+    if node.get_visited() == True:
+      pass
+    else:
+      node.set_visited(True)
+      neighbors = node.get_neighbors()
+      if len(neighbors) > 0:
+        for i in range(len(neighbors)):
+          self.sequence(neighbors[i])
+      self.stack.append(node.get_data())
+     
+graph = Graph()
+
+node_A = Node('A')
+graph.add_node(node_A)
+node_B = Node('B')
+graph.add_node(node_B)
+node_C = Node('C')
+graph.add_node(node_C)
+node_D = Node('D')
+graph.add_node(node_D)
+node_E = Node('E')
+graph.add_node(node_E)
+node_F = Node('F')
+graph.add_node(node_F)
+node_G = Node('G')
+graph.add_node(node_G)
+node_H = Node('H')
+graph.add_node(node_H)
+node_I = Node('I')
+graph.add_node(node_I)
+node_J = Node('J')
+graph.add_node(node_J)
+
+node_A.add_neighbor(node_B)
+node_A.add_neighbor(node_F)
+
+node_B.add_neighbor(node_H)
+
+node_D.add_neighbor(node_C)
+node_D.add_neighbor(node_E)
+node_D.add_neighbor(node_I)
+
+node_E.add_neighbor(node_I)
+
+node_G.add_neighbor(node_A)
+node_G.add_neighbor(node_B)
+node_G.add_neighbor(node_C)
+
+node_I.add_neighbor(node_C)
+
+node_J.add_neighbor(node_E)
+
+graph.topological_sort()
+
 ```
 
-### 나의 페이스북 주소   
-[여기](https://페이스북 주소 "000의페이스북")
+### 나의 깃허브 주소
+[여기](https://github.com/tyr1028/Leejooyeol.github.io "이주열의 깃허브")
