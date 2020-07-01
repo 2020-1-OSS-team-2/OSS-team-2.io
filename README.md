@@ -1,4 +1,4 @@
-#Minsoo Kim's self-introduction
+# Minsoo Kim's self-introduction
 
 ## **Who is Minsoo Kim?**
 
@@ -6,17 +6,17 @@
 |:----|:-----|
 |06th August 1998|alstn9008@gmail.com|
 
-# Bucket List
+## Bucket List
 
 * **Personal** garage
 * *Muscle car*
 * **Be a softwareEngineer**
 
-# Idol and his quote
+## Idol and his quote
 ![George patton](https://upload.wikimedia.org/wikipedia/commons/7/75/General_George_S._Patton_wearing_his_4-star_service_cap.jpg)
 > Accept challenges, so that you may feel the exhilaration of victory -George patton-
 
-# Lastest Code
+## Lastest Code
 ```python
 from random import randint
 
@@ -26,6 +26,6 @@ print('Computer: {}'.format(computer))
 play = input("Rock, Paper, Scissors? ")
 print('Player: {}'.format(computer))
 ```
-# Github address
+## Github address
 *My Github adress*
 [MinsooKim's Github](https://github.com/alstn9008/)
