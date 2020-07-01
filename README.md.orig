@@ -1,0 +1,82 @@
+# 새로운 디자인에 대한 제안
+
+## "000"의 자기소개
+
+**000**은 어떤 사람인가요?
+
+### 표 완성해보기
+
+|좋아하는 음식|취미|존경하는 인물|가장 아끼는 물건|
+|:-----:|:-----:|:-----:|:-----:|
+|킴취|북리딩|마이클잭슨|콤퓨타|
+
+### 버킷 리스트 작성하기
+
+<<<<<<< HEAD
+* 1.   
+* 2.   
+* 3.   
+* 4.   
+
+### 존경하는 인물의 사진과 그 인물의 명언
+
+![사진](https://존경하는 인물사진의 주소 "인물사진")
+=======
+*italics*
+
+[Google]((https://www.google.com)
+
+This a Header1
+=====
+
+This is a H2 Header
+-----
+
+-List1
+ -sublist1
+ -sublist2
+
+-List2
+ -sublist1
+ -sublist2
+
+|Default|Left-aligned|Centered|Right=aligned|
+|-------|:-----------|:-------:|------------:|
+|*defalut*|is        |center  |$1500|
+|**colons**|to specify|which align| $210|
+|`Code`|stripes|are neat| $1|
+
+![Github Logo](https://miro.medium.com/max/318/1*1OKmA2EdGln8O6RCVORgGg.png)
+
+>Markdown is intended to be as easy-to-read and easy-to-write as is feasible. -John Cruber
+
+```python
+name = "MinsuKim"
+print('Hello, {}'.format(name))
+```
+>>>>>>> MinsuKim
+
+> 늦었다고 생각할 때가 진짜 너무 늦었다 -박명수-
+
+### 내가 최근에 사용해본 코드   
+```java
+i = 1;
+j = 2;
+k = i+j;
+```
+
+<<<<<<< HEAD
+### 나의 페이스북 주소   
+[여기](https://페이스북 주소 "000의페이스북")
+=======
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-1-OSS-team-2/testpage.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> MinsuKim
