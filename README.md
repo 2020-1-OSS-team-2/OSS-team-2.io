@@ -1,61 +1,31 @@
-## Welcome to GitHub Pages
+#Minsoo Kim's self-introduction
 
-You can use the [editor on GitHub](https://github.com/2020-1-OSS-team-2/testpage.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## **Who is Minsoo Kim?**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|Date of birth|E-mail|
+|:----|:-----|
+|06th August 1998|alstn9008@gmail.com|
 
-### Markdown
+#Bucket List
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **Personal** garage
+* *Muscle car*
+* **Be a softwareEngineer**
 
-```markdown
-Syntax highlighted code block
+# Idol and his quote
+![George patton](https://upload.wikimedia.org/wikipedia/commons/7/75/General_George_S._Patton_wearing_his_4-star_service_cap.jpg)
+> Accept challenges, so that you may feel the exhilaration of victory -George patton-
 
-*italics*
-
-[Google]((https://www.google.com)
-
-This a Header1
-=====
-
-This is a H2 Header
------
-
--List1
- -sublist1
- -sublist2
-
--List2
- -sublist1
- -sublist2
-
-|Default|Left-aligned|Centered|Right=aligned|
-|-------|:-----------|:-------:|------------:|
-|*defalut*|is        |center  |$1500|
-|**colons**|to specify|which align| $210|
-|`Code`|stripes|are neat| $1|
-
-![Github Logo](https://miro.medium.com/max/318/1*1OKmA2EdGln8O6RCVORgGg.png)
-
->Markdown is intended to be as easy-to-read and easy-to-write as is feasible. -John Cruber
-
+# Lastest Code
 ```python
-name = "MinsuKim"
-print('Hello, {}'.format(name))
+from random import randint
+
+play = ["Rock", "Paper", "Scissors"]
+print('Computer: {}'.format(computer))
+
+play = input("Rock, Paper, Scissors? ")
+print('Player: {}'.format(computer))
 ```
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-1-OSS-team-2/testpage.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Github address
+*My Github adress*
+[MinsooKim's Github](https://github.com/alstn9008/)
