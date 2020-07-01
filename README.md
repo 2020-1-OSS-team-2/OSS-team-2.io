@@ -195,3 +195,59 @@ graph.topological_sort()
 
 ### 나의 페이스북 주소   
 [김종한의 페이스북 바로가기]( https://www.facebook.com/profile.php?id=100010597456027 "김종한의 페이스북")
+
+
+## "이지은"의 자기소개
+
+**이지은**은 어떤 사람인가요?
+
+### 표 완성해보기
+
+좋아하는 것에 대해서
+|음식|영화|드라마|음악|스포츠|게임|동물|취미|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|망고|해리포터|미스터션샤인|Yellow-Coldplay|축구|카트라이더|강아지|영화보기|
+
+### 버킷리스트
++ 스페인에 가서 축구경기 직관하기
++ 시베리아횡단열차타기
++ 반려동물데리고 바닷가가기
+
+### 인생 좌우명
+> 남의 불행을 나의 위안으로 삼지말자
+
+### 좋아하는 영화배우
+![Cillian Murpy](https://user-images.githubusercontent.com/65939621/86267714-1bc3e180-bc02-11ea-9e87-e55d0ee1430c.jpg)
+
+### 내가 최근에 사용해 본 코드
+```python
+import sys
+
+class Node:
+
+  index = 0
+
+  def __init__(self, data): 
+    self.index = Node.index
+    Node.index += 1
+    self.data = data
+    self.neighbors = []
+
+    self.key = sys.maxsize
+    self.memo = None
+    self.is_done = False
+
+  def get_index(self):
+    return self.index
+
+  def get_data(self):
+    return self.data
+
+  def get_neighbors(self):
+    return self.neighbors
+```
+
+### 나의 github 홈페이지 주소
+[이지은의 github홈페이지](https://zinneylee.github.io/)
+
+
