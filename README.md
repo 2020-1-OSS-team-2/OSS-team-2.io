@@ -1,8 +1,6 @@
 # Team-2 Members Self-Introduntion
 
 -----
-+++++
-_____
 ## Minsoo Kim's self-introduction
 
 ### **Who is Minsoo Kim?**
@@ -35,7 +33,7 @@ print('Player: {}'.format(computer))
 ### Github address
 [*MinsooKim's Github*](https://github.com/alstn9008/)
 
-
+-----
 ## "이주열"의 자기소개
 
 **이주열**은 어떤 사람인가요?
@@ -163,7 +161,7 @@ graph.topological_sort()
 
 -------
 ## "김종한"의 자기소개
-------
+
 **김종한**은 어떤 사람인가요?
 
 ### 표 완성해보기
