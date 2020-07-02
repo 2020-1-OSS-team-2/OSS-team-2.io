@@ -273,8 +273,7 @@ class Node:
 > 약속을 지키자
 
 ### 좋아하는 영화배우
-
-
+![Cillian Murpy]https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F12472D2E4C725F8F08
 ### 내가 최근에 사용해 본 코드
 ```python
 
