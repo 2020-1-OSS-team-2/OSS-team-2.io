@@ -1,6 +1,6 @@
 # Team-2 Members Self-Introduntion
 
-
+-----
 ## Minsoo Kim's self-introduction
 
 ### **Who is Minsoo Kim?**
@@ -33,7 +33,7 @@ print('Player: {}'.format(computer))
 ### Github address
 [*MinsooKim's Github*](https://github.com/alstn9008/)
 
-
+-----
 ## "이주열"의 자기소개
 
 **이주열**은 어떤 사람인가요?
@@ -159,7 +159,7 @@ graph.topological_sort()
 [여기](https://github.com/tyr1028/Leejooyeol.github.io "이주열의 깃허브")
 
 
-
+------
 ## "김종한"의 자기소개
 
 **김종한**은 어떤 사람인가요?
@@ -196,7 +196,7 @@ graph.topological_sort()
 ### 나의 페이스북 주소   
 [김종한의 페이스북 바로가기]( https://www.facebook.com/profile.php?id=100010597456027 "김종한의 페이스북")
 
-
+-----
 ## "이지은"의 자기소개
 
 **이지은**은 어떤 사람인가요?
@@ -251,7 +251,7 @@ class Node:
 ### 나의 github 홈페이지 주소
 [이지은의 github홈페이지](https://zinneylee.github.io/)
 
-
+-----
 ## "김민지"의 자기소개
 
 **김민지**은 어떤 사람인가요?
