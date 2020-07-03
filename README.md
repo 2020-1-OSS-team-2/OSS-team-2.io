@@ -59,7 +59,7 @@ print('Player: {}'.format(computer))
 ```
 ### 존경하는 인물의 사진과 그 인물의 명언
 
-![빌 게이츠](/https://upload.wikimedia.org/wikipedia/commons/2/2d/Bill_Gates_2014.jpg)
+![빌 게이츠](https://upload.wikimedia.org/wikipedia/commons/2/2d/Bill_Gates_2014.jpg)
 
 > ″성공은 형편없는 선생님이다. 똑똑한 사람들을 실패할 수 없다는 착각에 빠트린다.”
 
