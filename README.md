@@ -34,11 +34,19 @@ print('Player: {}'.format(computer))
 [*MinsooKim's Github*](https://github.com/alstn9008/)
 
 -----
+# TEAM-2의 자기소개
+
+
 ## "이주열"의 자기소개
 
 **이주열**은 어떤 사람인가요?
 
 ### 표 완성해보기
+| 카테고리      | 정보 |
+|---------------|--------|
+| 좋아하는 색깔 | 파란색 |
+| 좋아하는 음식 | 달달한 음식|
+|취미 | 게임과 제빵|
 
 ```markdown
 이번학기 수강과목
@@ -51,7 +59,7 @@ print('Player: {}'.format(computer))
 ```
 ### 존경하는 인물의 사진과 그 인물의 명언
 
-![사진](https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%25B9%258C_%25EA%25B2%258C%25EC%259D%25B4%25EC%25B8%25A0&psig=AOvVaw326jzhtlWZozTgkEas7HqH&ust=1593673926606000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC-ppLAq-oCFQAAAAAdAAAAABAD "빌 게이츠")
+![빌 게이츠](/bill.jpg "빌 게이츠")
 
 > ″성공은 형편없는 선생님이다. 똑똑한 사람들을 실패할 수 없다는 착각에 빠트린다.”
 
