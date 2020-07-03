@@ -33,6 +33,7 @@ print('Player: {}'.format(computer))
 ### Github address
 [*MinsooKim's Github*](https://github.com/alstn9008/)
 
+-------
 
 ## "이주열"의 자기소개
 
