@@ -1,9 +1,9 @@
 # Team-2 Members Self-Introduntion
 
 -----
-## Github ID & Student ID of Members
+## 팀원들의 Github ID, 이름, 학번
 
-|Github ID|Name|StudentID|
+|Github ID|이름|학번|
 |:-------:|:--:|:-------:|
 |alstn9008|김민수|2017210105|
 |blackstrawberry|김종한|2016225071|
