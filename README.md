@@ -33,9 +33,7 @@ print('Player: {}'.format(computer))
 ### Github address
 [*MinsooKim's Github*](https://github.com/alstn9008/)
 
------
-# TEAM-2의 자기소개
-
+-------
 
 ## "이주열"의 자기소개
 
