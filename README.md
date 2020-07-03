@@ -1,7 +1,19 @@
 # Team-2 Members Self-Introduntion
 
 -----
-## Minsoo Kim's self-introduction
+## Github ID & Student ID of Members
+
+|Github ID|Name|StudentID|
+|:-------:|:--:|:-------:|
+|alstn9008|김민수|2017210105|
+|blackstrawberry|김종한|2016225071|
+|kimminji14231|김민지|2019315038|
+||||
+||||
+
+-------------
+
+# Minsoo Kim's self-introduction
 
 ### **Who is Minsoo Kim?**
 
